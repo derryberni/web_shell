@@ -10,3 +10,7 @@
 
 > gif
 - https://secgeek.net/bookfresh-vulnerability/
+
+> how to check file
+- strings sxT08M_inf.jpg | grep php
+- exiftool
